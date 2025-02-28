@@ -17,7 +17,7 @@ public class peso {
        System.out.println("Digite sua altura");
        double a1 = teclado.nextDouble();
      
-       double r1 = (p1/a1) * (p1/a1) ;
+       double r1 = p1/(a1*a1) ;
        
        if (r1 < 18.5) {
       System.out.println("Magricela");
