@@ -23,7 +23,7 @@ public class peso {
       System.out.println("Magricela");
       
        } else if (r1 >= 18.5   && r1 < 25) {
-      System.out.println("Mormal"); 
+      System.out.println("Normal"); 
       
          } else if (r1 >= 25  && r1 < 30) {
       System.out.println("Bariginha de chop"); 
